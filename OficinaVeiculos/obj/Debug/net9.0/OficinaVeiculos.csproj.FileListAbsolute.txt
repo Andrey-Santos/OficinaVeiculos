@@ -1,0 +1,14 @@
+C:\Users\Andrey Santos\Downloads\OficinaVeiculos\OficinaVeiculos\bin\Debug\net9.0\OficinaVeiculos.exe
+C:\Users\Andrey Santos\Downloads\OficinaVeiculos\OficinaVeiculos\bin\Debug\net9.0\OficinaVeiculos.deps.json
+C:\Users\Andrey Santos\Downloads\OficinaVeiculos\OficinaVeiculos\bin\Debug\net9.0\OficinaVeiculos.runtimeconfig.json
+C:\Users\Andrey Santos\Downloads\OficinaVeiculos\OficinaVeiculos\bin\Debug\net9.0\OficinaVeiculos.dll
+C:\Users\Andrey Santos\Downloads\OficinaVeiculos\OficinaVeiculos\bin\Debug\net9.0\OficinaVeiculos.pdb
+C:\Users\Andrey Santos\Downloads\OficinaVeiculos\OficinaVeiculos\obj\Debug\net9.0\OficinaVeiculos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrey Santos\Downloads\OficinaVeiculos\OficinaVeiculos\obj\Debug\net9.0\OficinaVeiculos.AssemblyInfoInputs.cache
+C:\Users\Andrey Santos\Downloads\OficinaVeiculos\OficinaVeiculos\obj\Debug\net9.0\OficinaVeiculos.AssemblyInfo.cs
+C:\Users\Andrey Santos\Downloads\OficinaVeiculos\OficinaVeiculos\obj\Debug\net9.0\OficinaVeiculos.csproj.CoreCompileInputs.cache
+C:\Users\Andrey Santos\Downloads\OficinaVeiculos\OficinaVeiculos\obj\Debug\net9.0\OficinaVeiculos.dll
+C:\Users\Andrey Santos\Downloads\OficinaVeiculos\OficinaVeiculos\obj\Debug\net9.0\refint\OficinaVeiculos.dll
+C:\Users\Andrey Santos\Downloads\OficinaVeiculos\OficinaVeiculos\obj\Debug\net9.0\OficinaVeiculos.pdb
+C:\Users\Andrey Santos\Downloads\OficinaVeiculos\OficinaVeiculos\obj\Debug\net9.0\OficinaVeiculos.genruntimeconfig.cache
+C:\Users\Andrey Santos\Downloads\OficinaVeiculos\OficinaVeiculos\obj\Debug\net9.0\ref\OficinaVeiculos.dll
